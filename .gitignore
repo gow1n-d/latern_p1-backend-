@@ -1,0 +1,7 @@
+# Supabase local config
+.supabase/
+
+# Logs and secrets
+*.log
+.env
+.env*.local
